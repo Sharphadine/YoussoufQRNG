@@ -20,8 +20,7 @@ A modern, elegant GUI for generating true random numbers using **Quantum (Qiskit
 ## Screenshots
 
 **Main GUI Interface:**  
-"C:\Users\lougo\Desktop\labbbbb\youssouf3.png"
-
+<!-- Uploading "youssouf1.png"... -->
 **Random Number Generated (Binary Format):**  
 
 "C:\Users\lougo\Desktop\labbbbb\youssouf2.png"
