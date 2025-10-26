@@ -23,10 +23,10 @@ A modern, elegant GUI for generating true random numbers using **Quantum (Qiskit
 ![Binary Output](screenshots/youssouf3.png)
 
 **Random Number Generated (Binary Format):**  
-![Binary Output](screenshots/youssouf.png)
+![Binary Output](screenshots/youssouf4.png)
 
 **Random Number Generated (Hex Format):**  
-![Hex Output](screenshots/youssouf1.png) 
+![Hex Output](screenshots/youssouf5.png) 
 
 "C:\Users\lougo\Desktop\labbbbb\youssouf1.png"
 > 💡 *Replace the above images with your actual screenshots in the `screenshots/` folder.*
