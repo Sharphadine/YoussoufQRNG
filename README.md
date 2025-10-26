@@ -20,14 +20,14 @@ A modern, elegant GUI for generating true random numbers using **Quantum (Qiskit
 ## Screenshots
 
 **Main GUI Interface:**  
-![Main GUI](screenshots/youssouf1.png)
+"C:\Users\lougo\Desktop\labbbbb\youssouf3.png"
 
 **Random Number Generated (Binary Format):**  
-![Binary Output](screenshots/youssouf2.png)
 
+"C:\Users\lougo\Desktop\labbbbb\youssouf2.png"
 **Random Number Generated (Hex Format):**  
-![Hex Output](screenshots/youssouf3.png)
 
+"C:\Users\lougo\Desktop\labbbbb\youssouf1.png"
 > 💡 *Replace the above images with your actual screenshots in the `screenshots/` folder.*
 
 ---
